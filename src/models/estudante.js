@@ -1,4 +1,3 @@
-// const estudante_controller = require("../controllers/estudante.js")
 let nextId = 1
 
 const model = (body, id = nextId++) => {
