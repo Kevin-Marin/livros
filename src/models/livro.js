@@ -1,4 +1,3 @@
-// const livro_controller = require("../controllers/livro.js")
 let nextId = 1
 
 const model = (body, id = nextId++) => {
